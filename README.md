@@ -1,2 +1,2 @@
 # sonicpi
-in this deposing there are my sonicpi lessons.
+in this repository there are my sonicpi lessons.
